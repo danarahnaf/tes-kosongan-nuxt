@@ -12,8 +12,6 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
 
   runtimeConfig: {
-    chatwootBotToken: '',
-    chatwootBotSecret: '',
     public: {
       chatwootBaseUrl: '',
       chatwootWebsiteToken: ''

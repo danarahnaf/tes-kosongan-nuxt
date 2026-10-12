@@ -4,7 +4,7 @@
     {
       "name": "dev",
       "runtimeExecutable": "pnpm",
-      "runtimeArgs": ["dev", "--host"],
+      "runtimeArgs": ["dev"],
       "port": 3000
     }
   ]
