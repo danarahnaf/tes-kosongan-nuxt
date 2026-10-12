@@ -19,6 +19,6 @@ logs
 .idea
 
 # Local env files
-.env
+# .env is committed for now while testing with a dummy site; re-add it here before using real secrets
 .env.*
 !.env.example
